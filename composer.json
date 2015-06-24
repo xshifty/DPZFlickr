@@ -1,5 +1,5 @@
 {
-    "name": "dopiaza/dpzflickr",
+    "name": "xshifty/dpzflickr",
     "type": "library",
     "description": "PHP client library for Flickr.",
     "require": {
@@ -11,11 +11,11 @@
             "DPZ": "src/"
         }  
     },
-    "authors": [
-        {
-            "name": "David Wilkinson",
-            "homepage": "http://dopiaza.org",
-            "role": "Developer"
-        }
-    ]
+    "authors": [{
+        "name": "David Wilkinson",
+        "homepage": "http://dopiaza.org",
+        "role": "Developer"
+    }, {
+        "name": "Rafael Silveira"
+    }]
 }
